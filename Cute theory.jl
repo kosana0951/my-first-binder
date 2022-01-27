@@ -9,7 +9,7 @@ using PlutoUI
 
 # ╔═╡ 1c7523eb-901c-44ae-9095-b174446d0881
 md""" helo there
-ti kanete??? """"
+ti kanete??? """
 
 # ╔═╡ 02e07caf-295d-4736-9c13-6485134e091f
 x=4
