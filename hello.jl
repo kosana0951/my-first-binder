@@ -1,1 +1,1 @@
-println("Hello from Binder!")
+with_terminal(println, "Hello from Binder!")
